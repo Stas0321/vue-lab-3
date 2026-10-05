@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": { "first": "Олександр", "last": "Коваленко" },
+    "gender": "male",
+    "location": "Київ, Україна",
+    "email": "oleksandr@example.com",
+    "phone": "+380 67 123 4567",
+    "picture": "/users/user1.jpg",
+    "dob": { "date": "2007-05-12", "age": 17 },
+    "hobbies": ["Футбол", "Програмування", "Шахи"],
+    "details": "Захоплюється розробкою веб-додатків та кіберспортом."
+  },
+  {
+    "id": 2,
+    "name": { "first": "Марія", "last": "Шевченко" },
+    "gender": "female",
+    "location": "Львів, Україна",
+    "email": "mariya@example.com",
+    "phone": "+380 50 987 6543",
+    "picture": "/users/user2.jpg",
+    "dob": { "date": "2000-08-20", "age": 26 },
+    "hobbies": ["Дизайн", "Малювання", "Йога"],
+    "details": "UI/UX дизайнерка із захватом від мінімалізму."
+  },
+  {
+    "id": 3,
+    "name": { "first": "Іван", "last": "Петренко" },
+    "gender": "male",
+    "location": "Одеса, Україна",
+    "email": "ivan@example.com",
+    "phone": "+380 93 456 7890",
+    "picture": "/users/user3.jpg",
+    "dob": { "date": "1985-11-03", "age": 41 },
+    "hobbies": ["Плавання", "Кулінарія"],
+    "details": "Шеф-кухар та аматор морських прогулянок."
+  },
+  {
+    "id": 4,
+    "name": { "first": "Олена", "last": "Бондаренко" },
+    "gender": "female",
+    "location": "Харків, Україна",
+    "email": "olena@example.com",
+    "phone": "+380 63 321 6549",
+    "picture": "/users/user4.jpg",
+    "dob": { "date": "1968-03-15", "age": 58 },
+    "hobbies": ["Садівництво", "Читання"],
+    "details": "Викладач вищої категорії та любитель садівництва."
+  },
+  {
+    "id": 5,
+    "name": { "first": "Дмитро", "last": "Ткаченко" },
+    "gender": "male",
+    "location": "Дніпро, Україна",
+    "email": "dmytro@example.com",
+    "phone": "+380 97 111 2233",
+    "picture": "/users/user5.jpg",
+    "dob": { "date": "2002-01-10", "age": 24 },
+    "hobbies": ["Музика", "Гітара", "Біг"],
+    "details": "Музикант та студент комп'ютерних наук."
+  },
+  {
+    "id": 6,
+    "name": { "first": "Анна", "last": "Кравченко" },
+    "gender": "female",
+    "location": "Чернівці, Україна",
+    "email": "anna@example.com",
+    "phone": "+380 99 888 7766",
+    "picture": "/users/user6.jpg",
+    "dob": { "date": "2009-09-09", "age": 17 },
+    "hobbies": ["Танці", "Фотографія"],
+    "details": "Початкова фотографка та танцюристка."
+  },
+  {
+    "id": 7,
+    "name": { "first": "Сергій", "last": "Мороз" },
+    "gender": "male",
+    "location": "Запоріжжя, Україна",
+    "email": "serhiy@example.com",
+    "phone": "+380 66 555 4433",
+    "picture": "/users/user7.jpg",
+    "dob": { "date": "1992-04-18", "age": 34 },
+    "hobbies": ["Велоспорт", "Туризм"],
+    "details": "Любитель гірських походів та подорожей."
+  },
+  {
+    "id": 8,
+    "name": { "first": "Наталія", "last": "Лисенко" },
+    "gender": "female",
+    "location": "Вінниця, Україна",
+    "email": "natalia@example.com",
+    "phone": "+380 98 444 3322",
+    "picture": "/users/user8.jpg",
+    "dob": { "date": "1972-12-01", "age": 53 },
+    "hobbies": ["В'язання", "Вишивання"],
+    "details": "Майстриня ручної роботи."
+  },
+  {
+    "id": 9,
+    "name": { "first": "Максим", "last": "Сидоренко" },
+    "gender": "male",
+    "location": "Полтава, Україна",
+    "email": "max@example.com",
+    "phone": "+380 50 222 1100",
+    "picture": "/users/user9.jpg",
+    "dob": { "date": "1998-07-25", "age": 28 },
+    "hobbies": ["Автомобілі", "Картинг"],
+    "details": "Автомеханік та автогощик."
+  },
+  {
+    "id": 10,
+    "name": { "first": "Софія", "last": "Мельник" },
+    "gender": "female",
+    "location": "Тернопіль, Україна",
+    "email": "sofia@example.com",
+    "phone": "+380 67 999 0011",
+    "picture": "/users/user10.jpg",
+    "dob": { "date": "1990-02-14", "age": 36 },
+    "hobbies": ["Астрономія", "Книги"],
+    "details": "Науковий співробітник та любитель наукової фантастики."
+  }
+]
